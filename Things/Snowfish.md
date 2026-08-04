@@ -1,6 +1,7 @@
 ---
 tags:
   - Things
+  - Community
 ---
 ---
 
