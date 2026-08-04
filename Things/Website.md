@@ -1,7 +1,6 @@
 ---
 tags:
-  - Notes
-  - Idea
+  - Things
 aliases:
   - dashboard
   - snowfall.city
