@@ -1,5 +1,6 @@
 ---
 tags:
+  - Notes
   - Learn
   - Video
 ---
