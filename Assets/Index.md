@@ -1,7 +1,6 @@
 ---
 tags:
-  - Flag
-  - Logo
+  - Assets
 ---
 ---
 ### Flags Ideas
