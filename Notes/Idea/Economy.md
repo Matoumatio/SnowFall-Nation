@@ -14,6 +14,6 @@ I also had the idea of giving an amount of [[Graupel|graupels]] to each [[Citize
 
 There should be an easy way on the [[Website|dashboard]] to transfer money from one user to another so that other uses could be applied.
 
-The idea of taxes were also talked about, but since this is a [[Is Demarchy the solution|demarchy]], the government itself does not profit of money and all money should be used by [[Citizen|citizens]] to get what they need and want, individually.
+The idea of taxes were also talked about, but since this is a [[Is Demarchy the solution|demarchy]], the government itself does not profit of any money and all wealth should be used by [[Citizen|citizens]] to get what they need and want, individually. But this will profit will benefit the [[Sortition|sortition]], who has access to more opportunities to get paid and so will create inequalities between the [[Citizen|citizens]] and [[Sortition|sortition]].
 
 ---
