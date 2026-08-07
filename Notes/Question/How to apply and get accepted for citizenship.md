@@ -12,4 +12,6 @@ If one or more of the three person refuses, they first have to put a reason why 
 After a short period of time (probably one day), the person can apply again taking account why did they do wrong.
 The new three random [[Jury|juries]] can then see how much retries the applicant did and reasons why the form got refused.
 
+Once accepted, these three [[Jury|jurors]] automatically become the new citizen's [[Guardian|guardians]] for a week and are responsible for their actions.
+
 ---
