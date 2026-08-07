@@ -24,6 +24,7 @@ flowchart TD
     C -- "Yes" --> D["Application accepted"]
     D --> E["The 3 jurors become the\nnew citizen's Guardians\nfor one week"]
     E --> F(["Welcome, new Citizen!"])
+    F --> M["The new citizen must find a new Guardian before\nthe end of the week"]
 
     C -- "No, 1+ refusals" --> G["Refusing juror(s) must\nstate a reason"]
     G --> H["Form is canceled"]
