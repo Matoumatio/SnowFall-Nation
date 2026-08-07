@@ -15,3 +15,23 @@ The new three random [[Jury|juries]] can then see how much retries the applicant
 Once accepted, these three [[Jury|jurors]] automatically become the new citizen's [[Guardian|guardians]] for a week and are responsible for their actions.
 
 ---
+
+```mermaid
+flowchart TD
+    A["Applicant fills out\ncitizenship form on Website"] --> B["Three random Jury members\nassigned to review"]
+    B --> C{"All 3 jurors\napprove?"}
+
+    C -- "Yes" --> D["Application accepted"]
+    D --> E["The 3 jurors become the\nnew citizen's Guardians\nfor one week"]
+    E --> F(["Welcome, new Citizen!"])
+
+    C -- "No, 1+ refusals" --> G["Refusing juror(s) must\nstate a reason"]
+    G --> H["Form is canceled"]
+    H --> I["Wait ~1 day"]
+    I --> J["Applicant may reapply,\naccounting for prior\nrefusal reasons"]
+    J --> K["Three NEW random jurors\nassigned"]
+    K --> L["Jurors see retry count\n+ past refusal reasons"]
+    L --> C
+```
+
+---
