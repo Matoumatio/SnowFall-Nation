@@ -1,0 +1,21 @@
+{
+  "citizenId": "SFN-202X-XXX-XXX",
+  "usernames": ["XXX"],
+
+  "name": "XXX",
+  "gender": "XXX",
+  "dateOfBirth": "XXXX-XX-XX",
+
+  "description": "XXX",
+  "links":
+    [
+        {
+        "label": "XXX",
+        "url": "XXX"
+        }
+    ],
+
+    "Guardian": null,
+    "isGuardian": [],
+    "isSortition": false
+}
